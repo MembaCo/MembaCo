@@ -1,40 +1,74 @@
-<!-- Banner Bölümü: Üstte büyük bir görsel ekleyin. GitHub'ın desteklediği bir resim URL'si kullanın (örneğin, kendi GitHub resminiz veya bir banner). -->
-![MembaCo Banner](https://github.com/MembaCo/MembaCo/blob/main/banner.png?raw=true) <!-- Banner resmini repo'ya yükleyin ve buraya URL ekleyin. -->
+<h1 align="center">
+  <a href="https://github.com/MembaCo">
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=0:b693f8,100:39d392&height=220&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40" alt="Header Banner"/>
+  </a>
+</h1>
 
-# 👋 Merhaba, Ben MembaCo!
+<div align="center">
+  
+  <h3>Merhaba, ben MembaCo! 👋</h3>
+  
+  <p>
+    Buraya kendinizle ilgili kısa, etkileyici bir giriş yazısı ekleyin.<br />
+    Neler yaptığınız, ne tür projelerle ilgilendiğiniz ve hedefleriniz...
+  </p>
+  
+  <ul>
+    <li>🌱 Şu anda <strong>Next.js 14</strong> ve <strong>AI Entegrasyonları</strong> öğreniyorum.</li>
+    <li>💼 <strong>Full-Stack Geliştirici</strong> olarak işbirlikleri arıyorum.</li>
+    <li>💬 Bana <strong>React, Node.js</strong> ve <strong>Performans Optimizasyonu</strong> hakkında her şeyi sorabilirsiniz.</li>
+    <li>📫 Bana nasıl ulaşırsınız: <strong>[email@adresiniz.com]</strong> (Bu alanı değiştirin)</li>
+  </ul>
 
-Merhaba! Ben [Adınız Soyadınız], bir yazılım geliştirici / tasarımcı / [mesleğiniz]. Açık kaynak projeleri üzerinde çalışmayı seviyorum. 🚀
+</div>
 
-- 🌍 **Konum:** İngiltere (veya nerede yaşıyorsanız)
-- 💼 **Meslek:** Yazılım Mühendisi / Girişimci
-- 📫 **İletişim:** [email@example.com](mailto:email@example.com) | [Twitter](https://twitter.com/membaco)
-- 🔗 **Web Sitesi:** [membaco.com](https://membaco.com) (eğer varsa)
+<br />
 
-### 🛠️ Kullandığım Teknolojiler ve Araçlar
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+---
 
-### 📊 GitHub İstatistiklerim
-![MembaCo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MembaCo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MembaCo&layout=compact&theme=radical&hide_border=true)
+<h3 align="center">🛠️ Teknoloji Yığınım (Tech Stack)</h3>
 
-### 🌟 Öne Çıkan Projelerim
-- **[Proje1](https://github.com/MembaCo/Proje1)**: Kısa açıklama. Yıldız: ![GitHub stars](https://img.shields.io/github/stars/MembaCo/Proje1?style=social)
-- **[Proje2](https://github.com/MembaCo/Proje2)**: Başka bir proje açıklaması. Yıldız: ![GitHub stars](https://img.shields.io/github/stars/MembaCo/Proje2?style=social)
-- **[Proje3](https://github.com/MembaCo/Proje3)**: Daha fazla detay.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,docker,git,figma,vscode&perline=6" alt="My Tech Stack"/>
+  </a>
+</p>
 
-### 📈 Katkı Grafiğim
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MembaCo&theme=radical&hide_border=true)
+---
 
-### 🤝 Bağlantı Kurun!
-- [LinkedIn](https://linkedin.com/in/membaco) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-- [Twitter](https://twitter.com/membaco) ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-- [Instagram](https://instagram.com/membaco) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<h3 align="center">📊 GitHub İstatistiklerim</h3>
 
-Teşekkürler ziyaretiniz için! Yıldız bırakmayı unutmayın. ⭐
+<div align="center">
+  
+  [![MembaCo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MembaCo&show_icons=true&theme=tokyonight&icon_color=39d392&text_color=ffffff&bg_color=0d1117&border_color=39d392)](https://github.com/anurag-hazra/github-readme-stats)
+  
+  <br />
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MembaCo&layout=compact&theme=tokyonight&text_color=ffffff&bg_color=0d1117&border_color=39d392)](https://github.com/anurag-hazra/github-readme-stats)
+  
+</div>
 
-<!-- Alt Kısım: Ziyaretçi Sayacı -->
-![Visitor Count](https://komarev.com/ghpvc/?username=MembaCo&color=brightgreen)
+<br />
+
+---
+
+<h3 align="center">🤝 Hadi Bağlanalım!</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/kullaniciadinizz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://twitter.com/kullaniciadinizz" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>&nbsp;
+  <a href="httpss://siteniz.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Websitem-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>&nbsp;
+  <a href="mailto:[email@adresiniz.com]" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Bana%20Ulaşın-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:39d392,100:b693f8&height=120&section=footer" alt="Footer Banner"/>
+</h1>
