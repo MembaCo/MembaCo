@@ -102,7 +102,7 @@ const memba = {
 ### 🐍 Katkı Grafiği
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MembaCo/MembaCo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
